@@ -1,7 +1,7 @@
 {
-  "name": "p2p.chat",
+  "name": "demo conference",
   "version": "0.2.8",
-  "description": "P2P Video Chat",
+  "description": "demo conference",
   "main": "webpack.config.js",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --config webpack.config.js --port 3001 --hot --inline --history-api-fallback",
@@ -10,10 +10,6 @@
   },
   "author": "Tom Watson <tom@tomjwatson.com>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/tom-james-watson/p2p.chat.git"
-  },
   "browserslist": [
     "> 1%",
     "last 2 versions"
@@ -38,7 +34,6 @@
     "webpack-dev-server": "^3.11.0"
   },
   "keywords": [
-    "p2p",
     "video",
     "chat"
   ],
