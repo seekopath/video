@@ -1,5 +1,5 @@
 {
-  "name": "demo conference",
+  "name": "democonference",
   "version": "0.2.8",
   "description": "demo conference",
   "main": "webpack.config.js",
